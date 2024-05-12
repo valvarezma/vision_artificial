@@ -4,6 +4,8 @@ Universidad Nacional de San Agustín de Arequipa
 Integrantes:
 * Vidal Alvarez Manuel
 * Elker Garcia
+* Vladimir Barrios Bejarano
+
 Docente Juan Carlos Gutierrez.
 
 Resumen:
